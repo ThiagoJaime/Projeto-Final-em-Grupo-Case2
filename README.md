@@ -34,3 +34,35 @@ para o desenvolvimento de aplicativos que exigem a manipulação de dados.
 ## 📌 Requisitos:
 <p>O back-end foi feito utilizando Node, Express e SQLite.</p>
 <p>O front-end foi feito utilizando React e Bootstrap.</p>
+
+### ⚠ Nesse projeto, temos a pasta de backend e de frontend. ⚠
+
+#### 1. Abra o terminal dentro da pasta do projeto e execute o seguinte comando:
+```sh
+$ cd server
+```
+
+#### 2. Instale as dependências
+```sh
+$ npm install
+```
+
+#### 3. Execute o backend
+```sh
+$ node index.js
+```
+
+#### 4. Em outro terminal, também dentro da pasta do projeto, execute:
+```sh
+$ cd client
+```
+
+#### 5. Instale as dependências
+```sh
+$ npm install
+```
+
+#### 6. Execute o frontend
+```sh
+$ yarn start
+```
