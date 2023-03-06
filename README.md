@@ -35,7 +35,7 @@ para o desenvolvimento de aplicativos que exigem a manipulação de dados.
 <p>O back-end foi feito utilizando Node, Express e SQLite.</p>
 <p>O front-end foi feito utilizando React e Bootstrap.</p>
 
-### ⚠ Nesse projeto, temos a pasta de backend e de frontend. ⚠
+### :gear: Nesse projeto, temos a pasta de backend e de frontend. 
 
 #### 1. Abra o terminal dentro da pasta do projeto e execute o seguinte comando:
 ```sh
